@@ -31,3 +31,11 @@ int main()
       s2.displayDetails();
 
 }
+
+
+/*
+This pointer
+-> cannot ne modified.
+-> used to refer the caller object in member function.
+-> this is a local object pointer which is present in every instance member function containing the address of the caller object.
+*/
