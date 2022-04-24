@@ -42,6 +42,6 @@ i4=i3++;
 i3.show_data();
 i4.show_data();
 
-
-
 }
+
+/* the post decrement and pre decrement can be overloaded the same way */ 
